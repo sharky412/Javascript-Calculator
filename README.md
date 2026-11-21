@@ -6,6 +6,7 @@ A simple browser calculator built with HTML, Bootstrap 5 and vanilla JavaScript.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?logo=bootstrap&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Features
 
@@ -45,3 +46,7 @@ CalculatorJavaScript/
 ├── index.css    # Stylesheet
 └── index.js     # Calculator logic (input, operators, evaluation)
 ```
+
+## License
+
+Released under the [MIT License](LICENSE).
